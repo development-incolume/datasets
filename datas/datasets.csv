@@ -148,3 +148,5 @@ survey_results_public.csv,survey_results_public,https://raw.githubusercontent.co
 survey_results_schema.csv,survey_results_schema,https://raw.githubusercontent.com/incolumepy/datasets/master/datas/survey_results_schema.csv,csv,False,8428,2020-08-07 14:44:48.853961
 titanic_train.csv,titanic_train,https://raw.githubusercontent.com/incolumepy/datasets/master/datas/titanic_train.csv,csv,False,61194,2020-08-07 14:44:48.853961
 vgsales.csv,vgsales,https://raw.githubusercontent.com/incolumepy/datasets/master/datas/vgsales.csv,csv,False,1351260,2020-08-07 14:44:48.853961
+datasets.csv,datasets,https://raw.githubusercontent.com/incolumepy/datasets/master/datasets.csv,csv,False,28303,2020-08-07 17:37:02.457363
+datasets.json,datasets,https://raw.githubusercontent.com/incolumepy/datasets/master/datasets.json,json,False,28303,2020-08-07 17:37:04.308777
