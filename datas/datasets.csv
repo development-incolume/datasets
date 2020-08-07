@@ -150,3 +150,4 @@ titanic_train.csv,titanic_train,https://raw.githubusercontent.com/incolumepy/dat
 vgsales.csv,vgsales,https://raw.githubusercontent.com/incolumepy/datasets/master/datas/vgsales.csv,csv,False,1351260,2020-08-07 14:44:48.853961
 datasets.csv,datasets,https://raw.githubusercontent.com/incolumepy/datasets/master/datasets.csv,csv,False,28303,2020-08-07 17:37:02.457363
 datasets.json,datasets,https://raw.githubusercontent.com/incolumepy/datasets/master/datasets.json,json,False,28303,2020-08-07 17:37:04.308777
+1ZstjlLovYz6iChjwC9IGkuqEu0Eq_oOYDjIqSt_v3P4,datasets, https:/docs.google.com/1ZstjlLovYz6iChjwC9IGkuqEu0Eq_oOYDjIqSt_v3P4,gsheet,False,0,2020-08-07 18:17:31.883205
